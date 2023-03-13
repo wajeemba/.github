@@ -13,6 +13,7 @@ If you can spare a few hours a week, join the Discord and make yourself known, i
 You can pick an issue to own or ask for direction on what needs priority.
 
 We have tasks encompasing, *non technical is particularly important*:
+#### [Task list](https://github.com/orgs/twohoursonelife/projects/2/views/6)
 - Project management
 - General organisation management
 - Community engagement
@@ -22,5 +23,3 @@ We have tasks encompasing, *non technical is particularly important*:
 - VueJS
 - discord.py
 - discord.js
-
-#### [Task list](https://github.com/orgs/twohoursonelife/projects/2/views/6)
