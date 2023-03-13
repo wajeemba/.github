@@ -3,18 +3,18 @@
 A fork of the Open Source game One Hour One Life.
 Otherwise known as 2HOL, we're made by and for the community.
 
-## We need your help to survive
-If you're reading this, you likely have some amount of technical or industry experience.
+## We need your help!
+If you're reading this, you likely have some technical or industry experience.
 
-Our core codebase is C++ mixed with PHP, but it's all of our "satellite" or smaller applications that we need the most assitance with.
+Our core codebase is C++ mixed with PHP, but it's our smaller applications and general organisation that we need the most assitance with.
 
 If you can spare a few hours a week, join the Discord and make yourself known, ideally becoming somewhat involved in the community.
 
 You can pick an issue to own or ask for direction on what needs priority.
 
-We have tasks encompasing:
+We have tasks encompasing, *non technical is particularly important*:
 - Project management
-  - General organisation management
+- General organisation management
 - Community engagement
 - C++
 - PHP
