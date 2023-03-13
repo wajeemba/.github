@@ -10,10 +10,10 @@ Our core codebase is C++ mixed with PHP, but it's our smaller applications and g
 
 If you can spare a few hours a week, join the Discord and make yourself known, ideally becoming somewhat involved in the community.
 
-You can pick an issue to own or ask for direction on what needs priority.
+You can claim an issue yourself or ask for direction on what needs priority.
 
-#### We have tasks encompasing, *non technical is particularly important*:
-[Task list](https://github.com/orgs/twohoursonelife/projects/2/views/6)
+### We have tasks involving:
+ [Task list](https://github.com/orgs/twohoursonelife/projects/2/views/6)
 - Project management
 - General organisation management
 - Community engagement
