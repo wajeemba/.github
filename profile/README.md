@@ -22,3 +22,5 @@ We have tasks encompasing, *non technical is particularly important*:
 - VueJS
 - discord.py
 - discord.js
+
+#### [Task list](https://github.com/orgs/twohoursonelife/projects/2/views/6)
