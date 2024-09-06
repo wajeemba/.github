@@ -6,7 +6,7 @@ Otherwise known as 2HOL, we're made by and for the community.
 ## We need your help!
 If you're reading this, you likely have some technical or industry experience.
 
-Our core codebase is C++ mixed with PHP, but it's our smaller applications and general organisation that we need the most assitance with.
+Our core codebase is C++ mixed with PHP, but it's our smaller applications and general organisation that we need the most assistance with.
 
 If you can spare a few hours a week, join the Discord and make yourself known, ideally becoming somewhat involved in the community.
 
